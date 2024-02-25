@@ -8,7 +8,7 @@ body{
 }
 
 .text1{
-    align-items:flex-end;
+    align-items: center;
     flex-wrap: nowrap;
 
 font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -24,33 +24,30 @@ color: white;
 }
 
 .img1{
-    align-content:flex-start;
-    flex-wrap: nowrap;
     margin-top: 299px;
     width: 551px;
     height: 1265;
 }
 
 .img2{
-    align-content:center;
-    flex-wrap: nowrap;
     margin-top: 179px;
     width: 599.06px;
     height: 1226;
 }
 
 .img3{
-    align-content:center;
-    flex-wrap: nowrap;
     margin-top: 384px;
     width: 606.32px;
     height: 1392;
 }
 
 .img4{
-    align-content:center;
-    flex-wrap: nowrap;
     margin-top: 220px;
     width: 609.81px;
     height: 1248;
+}
+
+.conter2{
+    align-content:center;
+    flex-wrap: nowrap;
 }
